@@ -93,7 +93,7 @@ require (
 	github.com/pebbe/zmq4 v1.2.7
 	github.com/pierrec/lz4/v4 v4.1.10
 	github.com/pkg/sftp v1.13.4
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/common v0.32.1 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/quipo/dependencysolver v0.0.0-20170801134659-2b009cb4ddcc
