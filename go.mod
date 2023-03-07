@@ -73,17 +73,16 @@ require (
 	github.com/itchyny/timefmt-go v0.1.3
 	github.com/jhump/protoreflect v1.10.1
 	github.com/jmespath/go-jmespath v0.4.0
-	github.com/lib/pq v1.10.3
+	github.com/lib/pq v1.10.4
 	github.com/linkedin/goavro/v2 v2.10.1
 	github.com/matoous/go-nanoid/v2 v2.0.0
 	github.com/mattn/go-colorable v0.1.11 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.16
 	github.com/mitchellh/mapstructure v1.4.2
 	github.com/moby/term v0.0.0-20201101162038-25d840ce174a // indirect
-	github.com/nats-io/jwt v1.2.0 // indirect
-	github.com/nats-io/nats-streaming-server v0.19.0 // indirect
-	github.com/nats-io/nats.go v1.13.0
-	github.com/nats-io/stan.go v0.10.0
+	github.com/nats-io/nats-streaming-server v0.24.3 // indirect
+	github.com/nats-io/nats.go v1.13.1-0.20220308171302-2f2f6968e98d
+	github.com/nats-io/stan.go v0.10.2
 	github.com/nsf/jsondiff v0.0.0-20210926074059-1e845ec5d249
 	github.com/nsqio/go-nsq v1.1.0
 	github.com/olivere/elastic/v7 v7.0.29
@@ -95,7 +94,6 @@ require (
 	github.com/pkg/sftp v1.13.4
 	github.com/prometheus/client_golang v1.11.0
 	github.com/prometheus/common v0.32.1 // indirect
-	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/quipo/dependencysolver v0.0.0-20170801134659-2b009cb4ddcc
 	github.com/quipo/statsd v0.0.0-20180118161217-3d6a5565f314
 	github.com/rabbitmq/amqp091-go v1.1.1-0.20211014165712-60a96d570ece
@@ -119,11 +117,10 @@ require (
 	go.mongodb.org/mongo-driver v1.7.4
 	go.nanomsg.org/mangos/v3 v3.3.0
 	go.uber.org/atomic v1.9.0 // indirect
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/net v0.0.0-20211105192438-b53810dc28af
+	golang.org/x/crypto v0.0.0-20220307211146-efcb8507fb70
+	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211107104306-e0b2ad06fe42 // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	golang.org/x/text v0.3.7
 	google.golang.org/api v0.60.0
